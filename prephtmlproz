@@ -1,0 +1,11 @@
+
+loja_eletronicos = ["Smartphone", "Notebook", "Tablet", "Fone de Ouvido", "Mouse"]
+
+anos_nascimento = [1975, 1984, 1957, 2000, 2005]
+
+
+print("Produtos da Loja de Eletrônicos: ")
+print(loja_eletronicos)
+
+print("Anos de Nascimento dos meus familiares: ")
+print(anos_nascimento)
